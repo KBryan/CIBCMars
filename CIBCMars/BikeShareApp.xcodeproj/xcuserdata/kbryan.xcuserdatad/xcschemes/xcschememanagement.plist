@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>CIBCMars.xcscheme</key>
+		<key>BikeShareApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>788CEA2F1BFE166400386C7C</key>
+		<key>781772D61BFE5645000D68E8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>788CEA431BFE166400386C7C</key>
+		<key>781772EA1BFE5645000D68E8</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>788CEA4E1BFE166400386C7C</key>
+		<key>781772F51BFE5645000D68E8</key>
 		<dict>
 			<key>primary</key>
 			<true/>

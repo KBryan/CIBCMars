@@ -1,15 +1,15 @@
 //
-//  CIBCMarsTests.swift
-//  CIBCMarsTests
+//  BikeShareAppTests.swift
+//  BikeShareAppTests
 //
 //  Created by KBryan on 2015-11-19.
 //  Copyright © 2015 KBryan. All rights reserved.
 //
 
 import XCTest
-@testable import CIBCMars
+@testable import BikeShareApp
 
-class CIBCMarsTests: XCTestCase {
+class BikeShareAppTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  CIBCMars
+//  BikeShareApp
 //
 //  Created by KBryan on 2015-11-19.
 //  Copyright © 2015 KBryan. All rights reserved.

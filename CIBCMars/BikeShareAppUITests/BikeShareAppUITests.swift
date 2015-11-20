@@ -1,6 +1,6 @@
 //
-//  CIBCMarsUITests.swift
-//  CIBCMarsUITests
+//  BikeShareAppUITests.swift
+//  BikeShareAppUITests
 //
 //  Created by KBryan on 2015-11-19.
 //  Copyright © 2015 KBryan. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class CIBCMarsUITests: XCTestCase {
+class BikeShareAppUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

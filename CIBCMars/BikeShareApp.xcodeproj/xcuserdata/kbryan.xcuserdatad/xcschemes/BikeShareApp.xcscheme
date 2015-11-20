@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "788CEA2F1BFE166400386C7C"
-               BuildableName = "CIBCMars.app"
-               BlueprintName = "CIBCMars"
-               ReferencedContainer = "container:CIBCMars.xcodeproj">
+               BlueprintIdentifier = "781772D61BFE5645000D68E8"
+               BuildableName = "BikeShareApp.app"
+               BlueprintName = "BikeShareApp"
+               ReferencedContainer = "container:BikeShareApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,30 +32,30 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "788CEA431BFE166400386C7C"
-               BuildableName = "CIBCMarsTests.xctest"
-               BlueprintName = "CIBCMarsTests"
-               ReferencedContainer = "container:CIBCMars.xcodeproj">
+               BlueprintIdentifier = "781772EA1BFE5645000D68E8"
+               BuildableName = "BikeShareAppTests.xctest"
+               BlueprintName = "BikeShareAppTests"
+               ReferencedContainer = "container:BikeShareApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "788CEA4E1BFE166400386C7C"
-               BuildableName = "CIBCMarsUITests.xctest"
-               BlueprintName = "CIBCMarsUITests"
-               ReferencedContainer = "container:CIBCMars.xcodeproj">
+               BlueprintIdentifier = "781772F51BFE5645000D68E8"
+               BuildableName = "BikeShareAppUITests.xctest"
+               BlueprintName = "BikeShareAppUITests"
+               ReferencedContainer = "container:BikeShareApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "788CEA2F1BFE166400386C7C"
-            BuildableName = "CIBCMars.app"
-            BlueprintName = "CIBCMars"
-            ReferencedContainer = "container:CIBCMars.xcodeproj">
+            BlueprintIdentifier = "781772D61BFE5645000D68E8"
+            BuildableName = "BikeShareApp.app"
+            BlueprintName = "BikeShareApp"
+            ReferencedContainer = "container:BikeShareApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -75,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "788CEA2F1BFE166400386C7C"
-            BuildableName = "CIBCMars.app"
-            BlueprintName = "CIBCMars"
-            ReferencedContainer = "container:CIBCMars.xcodeproj">
+            BlueprintIdentifier = "781772D61BFE5645000D68E8"
+            BuildableName = "BikeShareApp.app"
+            BlueprintName = "BikeShareApp"
+            ReferencedContainer = "container:BikeShareApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -94,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "788CEA2F1BFE166400386C7C"
-            BuildableName = "CIBCMars.app"
-            BlueprintName = "CIBCMars"
-            ReferencedContainer = "container:CIBCMars.xcodeproj">
+            BlueprintIdentifier = "781772D61BFE5645000D68E8"
+            BuildableName = "BikeShareApp.app"
+            BlueprintName = "BikeShareApp"
+            ReferencedContainer = "container:BikeShareApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
